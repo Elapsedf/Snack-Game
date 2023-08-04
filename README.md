@@ -7,4 +7,6 @@ In addition, you can **change the background music** in the file. Simply replace
 
 1.0 version was the first version I created,which is not perfect. **I suggest you play the 1.1 version**，to which I add some new features and **hope you enjoy it**!
 
+open https://github.com/Elapsedf/Snack-Game/releases/tag/1.1 to download the 1.1 version
+
 Since it's the first game I've designed, the code maybe not good. And for time reasons,**I probably won't maintain it anymore!**
