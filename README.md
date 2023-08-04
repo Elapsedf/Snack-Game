@@ -1,6 +1,7 @@
 # Snack-Game
-Manual implementation of Snake in C
 This is a **manual implementation** of the Snake game in C when I am a freshman in college. It implements most of the features of the Snake game.
+
+In this game,I use easyx for my graphics library,and inno setup to pack my game in order to users can play the game directly without solving the problem of environment
 
 In addition, you can **change the background music** in the file. Simply replace "朝日.mp3" with what you want and **rename the music to "朝日.mp3"**.
 
